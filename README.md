@@ -1,5 +1,5 @@
 # CriminalIntent
 
-![Screenshot_20230108_044845](https://user-images.githubusercontent.com/102266055/211227223-a4139263-0320-434a-9945-999a877684b7.png)
+![finishedCriminalIntent](https://user-images.githubusercontent.com/102266055/211443294-7a4efcb2-ddb9-4e52-a5bb-6884ffc0e029.png)
 
-fake crimes with a list of items that have the title, date, and soon the image!
+fake crimes with a list of items that have the title, date, and the image!
